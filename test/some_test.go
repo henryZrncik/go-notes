@@ -14,3 +14,7 @@ func TestExample1(t *testing.T) {
 func TestExample2(t *testing.T) {
 	log.Println("test 2 pass")
 }
+
+func TestBx(t *testing.T) {
+	log.Println("test bx pass")
+}
