@@ -1,0 +1,6 @@
+package dep
+
+
+func Dep(){
+
+}
